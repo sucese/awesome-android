@@ -2,7 +2,7 @@
 
 ## Index
 
-- [Android UI/UX Library](/android-ui-ux-library)
+- [Android UI/UX Library](https://github.com/guoxiaoxing/awesome-android/tree/master/android-ui-ux-library)
 - [Android Chart Library]()
 - [Android Animation Library]()
 - [Android Mutilmedia Library]()
