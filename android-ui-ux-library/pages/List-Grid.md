@@ -2,6 +2,7 @@ List / Grid
 ======================
 Name | License | Demo
 --- | --- | ---
+[CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)|NONE
 [SuperRecyclerView](https://github.com/Malinskiy/SuperRecyclerView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | NONE
 [RecyclerViewSwipeDismiss](https://github.com/CodeFalling/RecyclerViewSwipeDismiss) | UnKnown | <img src="/android-ui-ux-library/art/RecyclerViewSwipeDismiss.gif" width="49%">
 [FlabbyListView](https://github.com/jpardogo/FlabbyListView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/android-ui-ux-library/art/FlabbyListView.gif" width="49%"> <img src="/android-ui-ux-library/art/FlabbyListView2.gif" width="49%">
