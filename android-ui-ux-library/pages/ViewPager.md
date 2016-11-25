@@ -1,6 +1,6 @@
 ViewPager
 ======================
-Name | License | Demo
+Name | Description | Screenshot
 --- | --- | ---
 [ParallaxPagerTransformer](https://github.com/xgc1986/ParallaxPagerTransformer) | UnKnown | <img src="/android-ui-ux-library/art/ParallaxPagerTransformer.gif" width="49%">
 [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/android-ui-ux-library/art/ViewPagerTransforms.gif" width="49%">

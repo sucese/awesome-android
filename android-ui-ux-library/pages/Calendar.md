@@ -1,6 +1,6 @@
 Calendar
 ======================
-Name | License | Demo
+Name | Description | Screenshot
 --- | --- | ---
 [Caldroid](https://github.com/roomorama/Caldroid) | [MIT](http://opensource.org/licenses/MIT) | <img src="/android-ui-ux-library/art/Caldroid.png" width="49%">
 [android-times-square](https://github.com/square/android-times-square) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/android-ui-ux-library/art/android-times-square.png" width="49%">

@@ -1,6 +1,6 @@
 Material
 ======================
-Name | License | Demo
+Name | Description | Screenshot
 --- | --- | ---
 [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |  <img src="/android-ui-ux-library/art/MaterialDesignLibrary.png" width="100%"> <img src="/android-ui-ux-library/art/MaterialDesignLibrary2.png" width="49%"> <img src="/android-ui-ux-library/art/MaterialDesignLibrary3.png" width="49%"> <img src="/android-ui-ux-library/art/MaterialDesignLibrary4.png" width="49%"> <img src="/android-ui-ux-library/art/MaterialDesignLibrary5.png" width="49%"> <img src="/android-ui-ux-library/art/MaterialDesignLibrary6.png" width="49%"> <img src="/android-ui-ux-library/art/MaterialDesignLibrary7.png" width="49%"> <img src="/android-ui-ux-library/art/MaterialDesignLibrary8.png" width="49%"> <img src="/android-ui-ux-library/art/MaterialDesignLibrary9.png" width="49%"> <img src="/android-ui-ux-library/art/MaterialDesignLibrary10.png" width="49%"> <img src="/android-ui-ux-library/art/MaterialDesignLibrary11.png" width="49%"> <img src="/android-ui-ux-library/art/MaterialDesignLibrary12.png" width="49%"> <img src="/android-ui-ux-library/art/MaterialDesignLibrary13.png" width="49%"> <img src="/android-ui-ux-library/art/MaterialDesignLibrary14.png" width="49%">
 [DrawerArrowDrawable](https://github.com/ChrisRenke/DrawerArrowDrawable) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/android-ui-ux-library/art/DrawerArrowDrawable.gif)

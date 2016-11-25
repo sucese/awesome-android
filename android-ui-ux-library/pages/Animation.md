@@ -1,7 +1,7 @@
 Animation
 ======================
-Name | License | Demo
---- | --- | --- | ---
+Name | Description | Screenshot
+--- | --- | ---
 [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) | [MIT](http://opensource.org/licenses/MIT) | <img src="/android-ui-ux-library/art/androidviewanimations.gif" width="49%">
 [ListViewAnimations](https://github.com/nhaarman/ListViewAnimations) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/android-ui-ux-library/art/ListViewAnimations.gif" width="49%">
 [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider) | [MIT](http://opensource.org/licenses/MIT) | <img src="/android-ui-ux-library/art/AndroidImageSlider.gif" width="49%">

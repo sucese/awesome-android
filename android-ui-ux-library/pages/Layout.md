@@ -1,6 +1,6 @@
 Layout
 ======================
-Name | License | Demo
+Name | Description | Screenshot
 --- | --- | ---
 [WaveView](https://github.com/john990/WaveView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/android-ui-ux-library/art/waveview.gif" width="49%">
 [ResideLayout](https://github.com/kyze8439690/ResideLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/android-ui-ux-library/art/ResideLayout.gif" width="49%">

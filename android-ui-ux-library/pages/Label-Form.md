@@ -1,6 +1,6 @@
 Label / Form
 ======================
-Name | License | Demo
+Name | Description | Screenshot
 --- | --- | ---
 [Shimmer-android](https://github.com/RomainPiel/Shimmer-android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/android-ui-ux-library/art/Shimmer-android.gif)
 [Shimmer for Android](https://github.com/facebook/shimmer-android) | [BSD 2 License](http://opensource.org/licenses/BSD-2-Clause) | <img src="/android-ui-ux-library/art/shimmer-android-fb.gif" width="100%">

@@ -1,6 +1,6 @@
 Button
 ======================
-Name | License | Demo
+Name | Description | Screenshot
 --- | --- | ---
 [circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/android-ui-ux-library/art/circular-progress-button.gif" width="49%">
 [android-process-button](https://github.com/dmytrodanylyk/android-process-button) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/android-ui-ux-library/art/android-process-button.gif" width="75%"> <img src="/android-ui-ux-library/art/android-process-button2.gif" width="75%">
